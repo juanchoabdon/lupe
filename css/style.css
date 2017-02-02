@@ -1,0 +1,196 @@
+
+body {
+background-color: #eeeeee;
+}
+
+section {
+  margin-top: 0px;
+  z-index: 10;
+}
+nav {
+  z-index: 9999;
+}
+.mostache {
+height: 32px;
+background-color: #364650;
+}
+.mostache img {
+  margin-top: 9px;
+  margin-left: 30px;
+}
+
+.button-collaps {
+  margin-left: 20px;
+}
+
+.brand-logo .search-box {
+ width: 400px;
+ height: 36px;
+ background-color: #ffffff;
+ border-radius: 2px;
+ color: #000;
+ padding-left: 20px;
+
+}
+
+.brand-logo .button-bg {
+ font-size: 30px;
+ width: 40px;
+ height: 36px;
+ border-radius: 2px;
+ background-color: #42c798;
+ margin-top: 6px;
+}
+.select-type {
+  width: 180px;
+height: 36px;
+border-radius: 2px;
+background-color: #ffffff;
+}
+
+.card {
+  margin-top: 30px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+.card img {
+  width: 140px;
+ height: 140px;
+
+}
+
+.main-options a{
+  margin-top: 25px;
+}
+.main-options .select {
+  background-color: #42c798;
+}
+
+.main-options .block {
+  background-color: #ff7864;
+}
+.main-info .name {
+  font-size: 18px;
+}
+
+.orders-tabs {
+ z-index: 100;
+ margin: 0px;
+ background-color: #364650;
+
+}
+.orders-tabs .tab a {
+  color: #BBBBBB;
+  font-size: 11px;
+  font-weight: 400;
+}
+
+.orders-tabs .tab a:hover, .orders-tabs .tab a.active {
+    background-color: transparent;
+    color: #fff;
+}
+.orders-tabs .indicator {
+ background-color: #42c798;
+ height: 4px;
+}
+
+.order-tabs {
+ z-index: 100;
+ margin: 0px;
+ background-color: #e0e0e0;
+
+}
+.order-tabs .tab a {
+  color: #6E7175;
+  font-size: 11px;
+  font-weight: 600;
+}
+.info li{
+  display: inline;
+}
+.order-tabs .tab a:hover, .order-tabs .tab a.active {
+    background-color: transparent;
+    color: #303336;
+
+}
+.order-tabs .indicator {
+ background-color: #42c798;
+ height: 4px;
+}
+
+.orders {
+   background-color: #fafafa;
+
+}
+
+.tickets {
+  background-color: #fafafa;
+  height: 100%;
+  padding-top: 30px;
+}
+.tickets .title {
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 10px;
+  padding: 30px;
+
+}
+.res-orders {
+  overflow-y: scroll;
+  height: 500px;
+}
+.info-box {
+  background-color: #42c798;
+  color: #fff;
+  font-size: 10px;
+  height: 32px;
+}
+.card-panel {
+  margin: 20px;
+}
+
+.row .col {
+  margin: 0px;
+  padding: 0;
+}
+
+.other-info {
+  background-color: #ffffff;
+  padding: 30px;
+}
+
+.califications {
+
+
+}
+
+.califications span {
+  font-weight: 500;
+  font-size: 13px;
+}
+
+.califications li {
+  margin-top: 16px;
+}
+#orden {
+  padding: 20px;
+}
+
+#orden span{
+   font-size: 20px;
+}
+#orden table{
+   margin-top: 25px;
+   margin-bottom: 40px;
+}
+#orden .row {
+   margin-top: 25px;
+   margin-bottom: 40px;
+}
+
+
+footer {
+  height: 56px;
+ background-color: #364650;
+}
